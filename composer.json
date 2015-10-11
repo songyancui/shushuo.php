@@ -1,0 +1,16 @@
+{
+    "name": "shushuo/client-sdk",
+    "description": "PHP connect SDK for ShuShuo",
+    "keywords":["shushuo", "php", "client", "sdk"],
+    "homepage":"https://www.shushuo.com/",
+    "authors":[
+        {
+            "name":"csy",
+            "email":"songyancui@gmail.com"
+        }
+    ],
+    "require": {
+            "php": ">=5.4",
+            "nategood/httpful": "0.2.*"
+    }
+}
