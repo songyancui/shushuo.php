@@ -9,8 +9,16 @@
             "email":"songyancui@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/shushuo/shushuo.php.git"
+        }
+    ],
     "require": {
             "php": ">=5.4",
             "nategood/httpful": "0.2.*"
     }
+
+
 }
